@@ -22,3 +22,7 @@
 
 
 ### [android 学习笔记 ](https://github.com/francistao/LearningNotes)
+
+
+### [android 视频播放器 ](https://github.com/CarGuo/GSYVideoPlayer)
+
