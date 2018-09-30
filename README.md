@@ -26,3 +26,9 @@
 
 ### [android 视频播放器 ](https://github.com/CarGuo/GSYVideoPlayer)
 
+### [android 七牛短视频套件 ](https://github.com/pili-engineering/PLDroidShortVideo)
+
+
+### [android 开发资源汇总1 ](https://github.com/XXApple/AndroidLibs)
+
+
