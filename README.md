@@ -32,3 +32,21 @@
 ### [android 开发资源汇总1 ](https://github.com/XXApple/AndroidLibs)
 
 
+
+### [android 弹出式菜单 ](https://github.com/ShamylZakariya/FlyoutMenus)
+
+### [android 粒子系统 ](https://github.com/DanielMartinus/Konfetti)
+
+### [android 爆炸为粉尘 ](https://github.com/tyrantgit/ExplosionField)
+
+### [android Material Design实现Ripple效果  API 9+ ](https://github.com/traex/RippleEffect)
+
+### [android 模糊库](https://github.com/CameraKit/blurkit-android)
+
+
+
+
+
+
+
+
