@@ -29,7 +29,6 @@
 ### [android 七牛短视频套件 ](https://github.com/pili-engineering/PLDroidShortVideo)
 
 
-### [android 开发资源汇总1 ](https://github.com/XXApple/AndroidLibs)
 
 
 
@@ -42,6 +41,13 @@
 ### [android Material Design实现Ripple效果  API 9+ ](https://github.com/traex/RippleEffect)
 
 ### [android 模糊库](https://github.com/CameraKit/blurkit-android)
+
+开源控件
+### [android 开发资源汇总1 ](https://github.com/XXApple/AndroidLibs)
+
+
+### [android 开源控件](https://www.jianshu.com/p/2a9cd3cbee6a)
+
 
 
 
